@@ -1,16 +1,15 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+title:          "Dominik's blog"
+description:    "Blog for embedded technologies and high performance computing"
+url:            "https://dominikadamski.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Dominik Adamski
+  url:          https://dominikadamski.github.io
 
 # Build settings
 markdown:       kramdown
