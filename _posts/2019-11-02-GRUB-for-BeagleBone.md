@@ -4,9 +4,8 @@ title: "GRUB for BeagleBone"
 author: "Dominik Adamski"
 ---
 
-# GRUB for BeagleBone Black
 
-Quick installation manual how to set U-boot, GRUB, Linux and root file system based on Busybox for Beaglebone Black board.
+Quick installation manual how to set U-boot, GRUB, Linux and root file system based on Busybox for Beaglebone Black board
 
 ## Motivation
 
